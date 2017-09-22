@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-nodejs-http-parser",
+  "dependencies": {
+    "nodejs/http-parser": "2.7.1",
+    "google/gtest": "1.8.0"
+  }
+}

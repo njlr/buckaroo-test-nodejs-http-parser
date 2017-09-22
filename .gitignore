@@ -1,0 +1,9 @@
+/.buckd/
+/buck-out/
+/buckaroo/
+.buckconfig.local
+buckaroo*.log
+BUCKAROO_DEPS
+
+# We always want to resolve
+buckaroo.lock.json
